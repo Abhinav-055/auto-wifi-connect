@@ -1,0 +1,17 @@
+# Ignore build outputs
+dist/
+build/
+*.spec
+
+# Ignore Python cache (if applicable)
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
