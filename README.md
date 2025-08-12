@@ -3,7 +3,7 @@
 This tool automatically connects you to the VIT Vellore Wi-Fi network and logs you in.
 
 ## How It Works
-- The executable (`main.exe`) 
+- The executable (`main.exe`) can be found inside releases under assets.
 - When run for the first time, it will ask for:
   1. **Wi-Fi SSID (name)** — the network name (e.g., `VIT2.4G` or `VIT5G`)
   2. **Username** — your VIT credentials
